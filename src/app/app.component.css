@@ -1,0 +1,12 @@
+*{box-sizing: border-box;}
+ul,li{
+    margin:0px;
+    padding:0px;
+}
+ul li{
+    list-style:none;
+    padding-bottom: 8px;
+}
+.error-msg{
+    color: red;
+}
